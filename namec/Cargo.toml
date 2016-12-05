@@ -1,0 +1,9 @@
+[package]
+name = "namec"
+version = "0.1.0"
+authors = ["Ken Wilcox <wilcoxk@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "name"
